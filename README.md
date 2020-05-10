@@ -1,4 +1,4 @@
 # gitskills of tony
-learn 2
+tony 2
 tony 3
 
