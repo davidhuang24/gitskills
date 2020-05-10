@@ -1,3 +1,3 @@
 # gitskills of tony
-learn 2
+learngit 2
 learn 3
